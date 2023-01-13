@@ -1,7 +1,7 @@
 # Go_MegamanCRUD
 Go no framework and no database CRUD about megaman.
 
-This is my repo about megaman CRUD.
+This is my repo about megaman CRUD using JSON.
 
 Feel free to use this as a file standard CRUD template like C++.
 
